@@ -2,9 +2,9 @@
 
 a, b, c = [float(x) for x in input().split()]
 
-tr = (a * b)/2
+tr = (a * c)/2
 ci = 3.14159 * (c ** 2)
-t = ( (a+b)*c )/2
+t = ( (a + b) * c )/2
 q = b ** 2
 r = a * b
 
