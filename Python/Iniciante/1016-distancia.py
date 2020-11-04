@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
 dkm = int(input())
-t = d * 2
+t = dkm * 2
 
 print(f'{t} minutos')
